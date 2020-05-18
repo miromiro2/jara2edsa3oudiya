@@ -1,4 +1,4 @@
- [
+[
 {
      "title":"الجديد",
     "drawable":"",
@@ -22,8 +22,7 @@
           "channel"
 
         ]
-     }
-	    ,
+     },
     {
         "title":"France 24",
         "provider":"youtube",
@@ -140,8 +139,7 @@
           "channel"
 
         ]
-     },
-     
+     },  
     {
         "title":"السنة النبوية",
         "provider":"youtube",
@@ -150,8 +148,7 @@
           "channel"
 
         ]
-     }
-	    ,         
+     },         
 	 {
         "title":"السعودية",
         "provider":"youtube",
@@ -160,11 +157,9 @@
           "channel"
 
         ]
-     }
-	    ,
-	    	
-	    	   {
-        "title":"Mbc 1",
+     },
+  {
+        "title":"Mbc1",
         "provider":"youtube",
         "arguments":[
           "UCPvObfhnwu_QNi6mc4z5UPQ",
@@ -189,8 +184,7 @@
           "channel"
 
         ]
-     }
-	    ,	  
+     },	  
 {
         "title":"Nat Geo Abu Dhabi",
         "provider":"youtube",
@@ -199,9 +193,8 @@
           "channel"
 
         ]
-     }
-	           ,
-		   {
+     },
+     {
         "title":"قناة اقرأ",
         "provider":"youtube",
         "arguments":[
@@ -210,7 +203,7 @@
 
         ]
      },
-		  {
+     {
         "title":"قناة زاد العلمية",
         "provider":"youtube",
         "arguments":[
@@ -228,8 +221,7 @@
 
         ]
      },
-	
-	 {
+     {
         "title":"إبن عثيمين",
         "provider":"youtube",
         "arguments":[
@@ -237,8 +229,10 @@
           "channel"
 
         ]
-     },
- {
+     }
+	    ]
+		},
+	 {
    "title":"العربية",
     "drawable":"",
     "submenu":"أخبار",
@@ -577,7 +571,7 @@
   {
    "title":"عرب نيوز",
     "drawable":"",
-    "submenu":"الصحف و الجرائد",
+    "submenu":"باللغة الإنجليزية",
     "iap":false,
     "tabs":[
       {
@@ -589,7 +583,7 @@
       }
     ]
 
-  },
+  },	
 	  {
    "title":"KSA1 Live",
     "drawable":"",
@@ -1153,7 +1147,22 @@
 			]
 		}]
 	},
-	  
+	  {
+   "title":"العربية",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.alarabiya.net/latest-news.html"
+        ]
+      }
+    ]
+
+  },	
 {
     "title":"عن التطبيق",
     "drawable":"",
@@ -1164,7 +1173,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aramexapps.appa.sauditv.SettingsFragment", "fragment"
+          "com.aramexapps.appa.saudinews.SettingsFragment", "fragment"
         ]
       }
     ]
