@@ -232,86 +232,6 @@
      }
 	    ]
 		},
-	 {
-   "title":"العربية",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.alarabiya.net/latest-news.html"
-        ]
-      }
-    ]
-
-  },	
-  {
-   "title":"Sky News",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.skynewsarabia.com/"
-        ]
-      }
-    ]
-
-  },	 
-  {
-   "title":"عكاظ",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.okaz.com.sa/"
-        ]
-      }
-    ]
-
-  },	
-  {
-   "title":"اليوم السابع",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://www.youm7.com/"
-        ]
-      }
-    ]
-
-  },	
-  {
-   "title":"أخبار 24",
-    "drawable":"",
-    "submenu":"أخبار",
-    "iap":false,
-    "tabs":[
-      {
-        "title":"WebView",
-        "provider":"webview",
-        "arguments":[
-          "https://akhbaar24.argaam.com/article/list/103/%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9%20%d9%88%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/1"
-        ]
-      }
-    ]
-
-  },	
   {
    "title":"البلاد",
     "drawable":"",
@@ -583,8 +503,88 @@
       }
     ]
 
+  },
+	 {
+   "title":"العربية",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.alarabiya.net/latest-news.html"
+        ]
+      }
+    ]
+
   },	
-	  {
+  {
+   "title":"Sky News",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.skynewsarabia.com/"
+        ]
+      }
+    ]
+
+  },	 
+  {
+   "title":"عكاظ",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.okaz.com.sa/"
+        ]
+      }
+    ]
+
+  },	
+  {
+   "title":"اليوم السابع",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://www.youm7.com/"
+        ]
+      }
+    ]
+
+  },	
+  {
+   "title":"أخبار 24",
+    "drawable":"",
+    "submenu":"أخبار",
+    "iap":false,
+    "tabs":[
+      {
+        "title":"WebView",
+        "provider":"webview",
+        "arguments":[
+          "https://akhbaar24.argaam.com/article/list/103/%d8%b9%d8%b1%d8%a8%d9%8a%d8%a9%20%d9%88%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d8%a9/1"
+        ]
+      }
+    ]
+
+  },	
+  {
    "title":"KSA1 Live",
     "drawable":"",
     "submenu":"الرجاء تفعيل خاصية دوران الصورة في هاتفك / بث مباشر",
