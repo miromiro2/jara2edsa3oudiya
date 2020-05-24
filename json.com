@@ -5,6 +5,24 @@
     "submenu":"",
     "iap":false,
     "tabs":[
+    {
+        "title":"صحيفة مكة الإلكترونية",
+        "provider":"youtube",
+        "arguments":[
+          "UCQV5jz0lnGoqnGN9dWJmTjg",
+          "channel"
+
+	    ]
+		},
+{
+        "title":"قناة العربية ",
+        "provider":"youtube",
+        "arguments":[
+          "UCahpxixMCwoANAftn6IxkTg",
+          "channel"
+
+	    ]
+		},
 	  {
         "title":"قناة العربية ",
         "provider":"youtube",
