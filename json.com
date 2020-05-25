@@ -1191,7 +1191,7 @@
         "title":"",
         "provider":"custom",
         "arguments":[
-          "com.aramexapps.appa.saudinews.SettingsFragment", "fragment"
+          "com.aramexapps.appa.saudiapresse.SettingsFragment", "fragment"
         ]
       }
     ]
